@@ -1,0 +1,33 @@
+languages:
+- item: JavaScript (ES6)
+- item: JAVA
+- item: HTML
+- item: CSS/Sass
+- item: C#
+- item: SQL
+
+
+frameworks:
+  - item: Selenium WebDriver
+  - item: Appium
+  - item: Jekyll
+  - item: Node
+  - item: Opencart
+  - item: Wordpress
+  
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Gulp & Grunt
+  - item: Chrome DevTools
+  - item: Postman
+  - item: MySQL/ Sql Server
+
+design:
+  - item: Data Driven Testing
+  - item: Jenkins
+  - item: Zira
+  - item: Rest API Testing - Postman
+  - item: Load Testing - JMeter
+  - item: User Testing

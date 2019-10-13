@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700,700i,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,500,500i,600,600i,700,700i&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+
+.experience_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;   
+}
+.content_title{
+
+  p{
+   background: #373D38;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.35em;
+    font-weight: 500;   
+    border-radius: 3px;
+    color: #F3F8E6;
+    border: 1px solid #086718;
+  } 
+
+}
+.project_content{
+  margin: 15px 0;
+}
+.project_items{
+  display: inline-block;
+  a {	
+		font-weight: 600;		
+		border: 0;
+		font-family: 'Nunito Sans', sans-serif;
+		text-decoration: none;		
+	}
+}
+
+.duration{ 
+  float: right;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
+  
+}
+.project_position{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;		
+  font-size: 0.9em;
+  color:#422323;
+}
+.project_used_items{
+  display: inline-block;
+    margin: 3px 3px 3px 0;
+    font-family: 'Inconsolata', monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: 3px;
+    color: $blue;
+    border: 1px solid $blue;
+    background: transparent;
+    &:first-of-type {
+      margin-left: 0;
+    }
+
+}

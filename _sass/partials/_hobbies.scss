@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700,700i,800&display=swap');
+
+.gif_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center; 
+    
+    h2{
+        font-family: 'Nunito Sans', sans-serif;
+		color: $text;
+    }
+    
+
+}
+  

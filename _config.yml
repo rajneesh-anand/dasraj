@@ -1,0 +1,36 @@
+title: Hello ! I'm Rajneesh
+description: > # this means to ignore newlines until "baseurl:"  
+permalink: ':title/'
+baseurl: "/raj_personal" # the subpath of your site, e.g. /blog
+url: "http://dasraj.com" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Rajneesh Kumar # add your name
+author-img: profile.png # add your photo
+about-author: Software Tester - Full-Stack Developer - Data Analyst - Blogger  - Sports Fan - Yogi  # add description
+social-twitter: # add your Twitter handle
+social-facebook: rajneesh.anand.986 # add your Facebook handle
+social-github: rajneesh-anand # add your Github handle
+social-linkedin: rajneesh-anand# add your Linkedin handle
+social-email: # add your Email address
+resume: https://rajneesh-anand.github.io/raj_personal/resume.pdf
+# Disqus
+# discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins_dir:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+#paginate: 8
+#paginate_path: "/page/:num"
+sass:
+  sass_dir: _sass
+  
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

@@ -1,0 +1,46 @@
+- company: Carrot Cruise Shipping Private Limited
+  url: http://www.cruisecarrot.com/
+  time: May 2018 - PRESENT
+  position: IT - CONSULTANT
+  description: Carrot cruise is one of the fastest growing travel booking company that redefines cruise experience with the newest possibility on the deck.
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: ASP.NET 
+    - thing: Selenium Webdriver
+    - thing: REST API
+
+- company: Anodik Future Solutions
+  time: August 2018 - PRESENT
+  position: IT - CONSULTANT
+  description: Carrot cruise is one of the fastest growing travel booking company that redefines cruise experience with the newest possibility on the deck.
+  used:
+    - thing: JavaScript
+    - thing: Angular
+    - thing: PHP 7.1 
+    - thing: Selenium Webdriver
+    - thing: REST API
+
+- company: R & M STORES 
+  time: Jan - June 2018
+  position: Co-Founder / QA-Testing
+  description: Online e-commerce B2B portal for Food Grains Suppliers . The project have been shelved due to lack of funds.
+  used:
+    - thing: JavaScript
+    - thing: React / Redux
+    - thing: NodeJS
+    - thing: MySQL
+    - thing: AWS
+
+- company: MEDIOLOGY SOFTWARE
+  url: https://www.mediologysoftware.com/
+  time: April-2014 - September 2015
+  position: worked as -- { Software Quality Analyst }
+  description: Mediology Software designs and develops a cross-platform application i.e Readwhere, an online reading & publishing hub
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: React Router
+    - thing: Axios
+    - thing: PHP 7.1
+
