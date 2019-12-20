@@ -1,6 +1,6 @@
 languages:
+- item: Core-JAVA
 - item: JavaScript (ES6)
-- item: JAVA
 - item: HTML
 - item: CSS/Sass
 - item: C#
@@ -10,24 +10,23 @@ languages:
 frameworks:
   - item: Selenium WebDriver
   - item: Appium
-  - item: Jekyll
-  - item: Node
-  - item: Opencart
-  - item: Wordpress
+  - item: Cucumber
+  - item: REST Assured
+  - item: TestNG
+  - item: JUnit
   
 
 tools:
-  - item: Bash
+  - item: IntelliJ IDEA
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MySQL/ Sql Server
+  - item: POSTMAN
+  - item: Visual Studio Code
+  - item: SoapUI
+  - item: JIRA
 
 design:
   - item: Data Driven Testing
-  - item: Jenkins
-  - item: Zira
+  - item: CI-CD - Circle ci 
   - item: Rest API Testing - Postman
   - item: Load Testing - JMeter
   - item: User Testing
