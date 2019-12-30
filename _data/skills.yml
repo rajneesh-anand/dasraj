@@ -2,7 +2,7 @@ languages:
 - item: Core-JAVA
 - item: JavaScript (ES6)
 - item: HTML
-- item: CSS/Sass
+- item: CSS
 - item: C#
 - item: SQL
 
@@ -20,13 +20,13 @@ tools:
   - item: IntelliJ IDEA
   - item: Git & Github
   - item: POSTMAN
-  - item: Visual Studio Code
+  - item: VS Code
   - item: SoapUI
   - item: JIRA
 
 design:
   - item: Data Driven Testing
-  - item: CI-CD - Circle ci 
+  - item: CI/CD - Circle ci 
   - item: Rest API Testing - Postman
   - item: Load Testing - JMeter
   - item: User Testing
