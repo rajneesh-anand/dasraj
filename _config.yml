@@ -1,5 +1,5 @@
 title: Hello ! I'm Rajneesh
-description: > # this means to ignore newlines until "baseurl:"  
+description: Dasraj Rajneesh Portfolio for Software Testing, Quality Analyst, Full Stack Developer,Data Analyst,Blogger,Sports Fan,Yogi
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dasraj.com" # the base hostname & protocol for your site, e.g. http://example.com
