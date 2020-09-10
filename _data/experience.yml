@@ -4,9 +4,9 @@
   position: IT - CONSULTANT
   description: Carrot cruise is one of the fastest growing travel booking company that redefines cruise experience with the newest possibility on the deck.
   used:
-    - thing: JavaScript
+    - thing: JavaScript/HTML/Sass
     - thing: React
-    - thing: ASP.NET 
+    - thing: C# /.NET Core 
     - thing: Microsoft Sql Server
     - thing: Testing Tool - RestAssured
 
