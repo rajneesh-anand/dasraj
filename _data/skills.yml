@@ -1,6 +1,6 @@
 languages:
 - item: Core-JAVA
-- item: JavaScript (ES6)
+- item: JavaScript
 - item: HTML
 - item: CSS
 - item: C#
