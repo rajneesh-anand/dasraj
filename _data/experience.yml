@@ -7,8 +7,8 @@
     - thing: JavaScript
     - thing: React
     - thing: ASP.NET 
-    - thing: Selenium Webdriver
-    - thing: REST API
+    - thing: Microsoft Sql Server
+    - thing: Testing Tool - RestAssured
 
 - company: Anodik Future Solutions
   time: August 2018 - PRESENT
@@ -17,9 +17,9 @@
   used:
     - thing: JavaScript
     - thing: Angular
-    - thing: PHP 7.1 
-    - thing: Selenium Webdriver
-    - thing: REST API
+    - thing: NodeJS
+    - thing: MongoDB
+    - thing: Testing Tool - Selenium WebDriver (Java Client)
 
 - company: R & M STORES 
   time: Jan - June 2018
@@ -38,9 +38,9 @@
   position: worked as -- { Software Quality Analyst }
   description: Mediology Software designs and develops a cross-platform application i.e Readwhere, an online reading & publishing hub
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: PHP 7.1
+    - thing: JavaScript/HTML/Sass
+    - thing: PHP
+    - thing: JAVA
+    - thing: SWIFT 
+    - thing: MySQL
 
