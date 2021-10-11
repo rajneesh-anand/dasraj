@@ -1,5 +1,5 @@
 title: Hello ! I'm Rajneesh
-description: Dasraj Rajneesh Portfolio for Software Testing, Quality Analyst, Full Stack Developer,Data Analyst,Blogger,Sports Fan,Yogi
+description: Portfolio for Software Testing, Quality Analyst, Full Stack Developer,Data Analyst,Blogger,Sports Fan,Yogi
 permalink: ':title/'
 baseurl: "/dasraj" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ social-facebook: rajneesh.anand.986 # add your Facebook handle
 social-github: rajneesh-anand # add your Github handle
 social-linkedin: rajneesh-anand# add your Linkedin handle
 social-email: # add your Email address
-resume: https://rajneesh-anand.github.io/raj_personal/resume.pdf
+resume: https://rajneesh-anand.github.io/dasraj/resume.pdf
 # Disqus
 # discus-identifier: mr-brown # add your discus identifier
 
