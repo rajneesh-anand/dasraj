@@ -1,14 +1,15 @@
 title: Hello ! I'm Rajneesh
 description: Portfolio for Software Testing, Quality Analyst, Full Stack Developer,Data Analyst,Blogger,Sports Fan,Yogi
-permalink: ':title/'
+permalink: ":title/"
 baseurl: "/dasraj" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Rajneesh Kumar # add your name
 author-img: profile.png # add your photo
-about-author: Software Testing - Full Stack Developer - Data Analyst - Blogger  - Sports Fan - Yogi  # add description
+about-author: Software Testing - Full Stack Developer - Data Analyst - Blogger  - Sports Fan - Yogi # add description
 social-twitter: # add your Twitter handle
 social-facebook: rajneesh.anand.986 # add your Facebook handle
 social-github: rajneesh-anand # add your Github handle
@@ -32,5 +33,6 @@ plugins_dir:
 #paginate_path: "/page/:num"
 sass:
   sass_dir: _sass
-  
+  sourcemap: never
+
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

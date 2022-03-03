@@ -1,11 +1,9 @@
 languages:
-- item: Core-JAVA
-- item: JavaScript
-- item: HTML
-- item: CSS
-- item: C#
-- item: SQL
-
+  - item: Core-JAVA
+  - item: React/Next JavaScript
+  - item: HTML/CSS
+  - item: Node JavaScript
+  - item: SQL
 
 frameworks:
   - item: Selenium WebDriver
@@ -14,7 +12,6 @@ frameworks:
   - item: REST Assured
   - item: TestNG
   - item: JUnit
-  
 
 tools:
   - item: IntelliJ IDEA
@@ -26,7 +23,7 @@ tools:
 
 design:
   - item: Data Driven Testing
-  - item: CI/CD - Circle ci 
+  - item: CI/CD - Circle ci
   - item: Rest API Testing - Postman
   - item: Load Testing - JMeter
   - item: User Testing

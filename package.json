@@ -1,7 +1,7 @@
 {
-  "name": "Jekyll-portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "A starter project for Jekyll",
+  "description": "personal website",
   "main": "index.js",
   "repository": "https://github.com/rajneesh-anand/raj_personal",
   "author": "Rajneesh Anand",
