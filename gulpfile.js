@@ -1,11 +1,11 @@
 var gulp = require("gulp");
-var sass = require("gulp-sass");
 var prefix = require("gulp-autoprefixer");
 var imagemin = require("gulp-imagemin");
 var pngquant = require("imagemin-pngquant");
 var cache = require("gulp-cache");
 var cp = require("child_process");
 var browserSync = require("browser-sync");
+const sass = require("gulp-sass")(require("sass"));
 
 var jekyll = process.platform === "win32" ? "jekyll.bat" : "jekyll";
 
