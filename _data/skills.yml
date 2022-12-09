@@ -9,6 +9,7 @@ frameworks:
   - item: Selenium WebDriver
   - item: Appium
   - item: Cucumber
+  - item: Cypress
   - item: REST Assured
   - item: TestNG
   - item: JUnit

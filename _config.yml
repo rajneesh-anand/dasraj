@@ -1,4 +1,4 @@
-title: Hello ! I'm Rajneesh
+title: Hello ! I'm Rajnish
 description: Portfolio for Software Testing, Quality Analyst, Full Stack Developer,Data Analyst,Blogger,Sports Fan,Yogi
 permalink: ":title/"
 baseurl: "/dasraj" # the subpath of your site, e.g. /blog
@@ -7,7 +7,7 @@ url: ""
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Rajneesh Kumar # add your name
+author: Rajnish Kumar # add your name
 author-img: profile.png # add your photo
 about-author: Software Testing - Full Stack Developer - Data Analyst - Blogger  - Sports Fan - Yogi # add description
 social-twitter: # add your Twitter handle
